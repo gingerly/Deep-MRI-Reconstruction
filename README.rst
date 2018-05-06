@@ -55,3 +55,7 @@ Dynamic Reconstruction::
 ----
 
 The paper is also available on arXiv: <https://arxiv.org/pdf/1704.02422.pdf>
+
+
+---------------------
+The information above was provided by the original author. The info below is mine.
